@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Walkway SemiBold';
+  src: url('./Walkway SemiBold.ttf') format('truetype');
+}
+
+.Logo {
+  font-size: 8rem;
+  font-family: Walkway SemiBold;
+}
+
+.LogoT {
+    left: 0.4rem;
+}
+
+.Logo span {
+    position: relative;
+}
+
+.Logo .subtext {
+    font-size: 1.4rem;
+}

@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Walkway Black';
+  src: url('./Walkway Black.ttf') format('truetype');
+}
+
+.Hub-logo {
+  text-align: center;
+  background-color: #222;
+  color: #fff;
+  width: 40%;
+  height: 100%;
+
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: space-around;
+}
+
+.Hub-header {
+  height: 150px;
+  padding: 20px;
+  color: white;
+  font-family: Walkway Black, Arial;
+}
+
+.Hub-intro {
+  font-size: large;
+  padding-bottom: 100px;
+}
